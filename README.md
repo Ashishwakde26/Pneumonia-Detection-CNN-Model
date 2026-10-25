@@ -173,23 +173,10 @@ Adapt the layout to the dataset and paths used in your notebook. Do not commit l
 
 ## Video walkthrough
 
-Watch the full project explanation: **[YouTube tutorial](<YOUR_YOUTUBE_VIDEO_URL>)**
+Watch the full project explanation: **[YouTube tutorial](https://youtu.be/M8HKrPzPBNw)**
 
 The walkthrough covers convolution and feature maps, batch normalization, max pooling, global average pooling, dense layers, dropout, training, validation, and predictions.
 
-## Results
-
-Add your measured test results here after evaluation:
-
-| Metric | Test result |
-|---|---|
-| Accuracy | To be added |
-| Precision (pneumonia) | To be added |
-| Recall / sensitivity (pneumonia) | To be added |
-| F1 score (pneumonia) | To be added |
-| ROC-AUC | To be added |
-
-You can also add images of the training/validation curves, confusion matrix, and example predictions.
 
 ## Limitations and next steps
 
