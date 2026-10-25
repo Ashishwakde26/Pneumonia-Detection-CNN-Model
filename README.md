@@ -29,6 +29,9 @@ Input images are grayscale with shape **150 × 150 × 1**.
 
 The model uses the **Adam** optimizer, **binary cross-entropy** loss, and **accuracy** as a training metric.
 
+<img width="1607" height="849" alt="image" src="https://github.com/user-attachments/assets/27c7f762-4a40-4965-82db-f38359e60d4c" />
+
+
 ## Dataset and preprocessing
 
 The dataset contains two labeled classes: `NORMAL` and `PNEUMONIA`. Images are read as grayscale, resized to **150 × 150**, converted into NumPy arrays, and reshaped into `(samples, 150, 150, 1)` for CNN input.
