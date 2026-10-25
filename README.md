@@ -91,6 +91,9 @@ history = model.fit(
 
 `learning_rate_reduction` is a `ReduceLROnPlateau` callback that lowers the learning rate when validation accuracy stops improving.
 
+<img width="1842" height="833" alt="image" src="https://github.com/user-attachments/assets/070dca00-fb60-4ce1-801e-f77bd24df577" />
+
+
 ## Evaluation and visualization
 
 Plot training and validation accuracy to understand learning progress:
@@ -107,6 +110,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+
+<img width="856" height="546" alt="image" src="https://github.com/user-attachments/assets/8c847049-5359-4986-8a63-1dbac9ed0889" />
 
 Generate predictions on the **held-out test set**:
 
